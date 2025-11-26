@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YjGCRLpU4Umn1wZ4A6SaiA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arenarpa.com/crazy-form" CVScreenId="f1873828-a535-43ce-b579-07abd16b9467" CvElementArea="709, 317, 280, 50" CvTextArea="792, 330, 116, 20" CvTextArgument="Iniciar Reto" CvType="Button" DesignTimeRectangle="713, 320, 274, 46" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname=' Iniciar Reto ' tag='A' /&gt;" Guid="3516c559-2717-4386-a74a-0e932168141e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArenaRPA' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5ded348b59eb12750f99325d503a4f43.png" xmlns="">0FxYBj0OYmUWa1_sQj5TDCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

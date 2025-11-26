@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT web",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ZJbgM1UZSEa-TthSr7Q6pw",
+  "Reference": "kyz1wZ-raUqFxQUDWZ39qA/ZJbgM1UZSEa-TthSr7Q6pw",
+  "ParentRef": "kyz1wZ-raUqFxQUDWZ39qA/kAB2tkA3jUel_TVG8ROWeA",
+  "Created": "2025-11-24T18:46:32.4821865Z",
+  "Updated": "2025-11-24T18:46:32.4821865Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
