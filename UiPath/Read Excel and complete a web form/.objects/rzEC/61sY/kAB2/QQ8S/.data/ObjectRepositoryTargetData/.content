@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="41khZTmmL0C2LfJVzERy_g" Reference="kyz1wZ-raUqFxQUDWZ39qA/QQ8SKWHtlEObii28TnIr9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-  <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="arenarpa.com/crazy-form" DesignTimeRectangle="785, 314, 130, 33" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='email' matching:id='fuzzy' fuzzylevel:id='0.0' tag='INPUT' /&gt;" Guid="0bf542dc-2e2b-4b3f-acd2-e3cd86b23210" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ArenaRPA' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="129c7b639ef24bd1279400e639ce274a.png" xmlns="">0Y0GSp9_Yh0eyWhAAk6keKQ</imageRef>
-    </TargetAnchorable>
-    <x:String x:Key="ActivityType">TypeInto</x:String>
-  </ObjectRepositoryTargetData.Data>
-</ObjectRepositoryTargetData>
