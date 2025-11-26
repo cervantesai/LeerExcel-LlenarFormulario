@@ -1,0 +1,77 @@
+# ============================================
+#   GITIGNORE PARA UIPATH STUDIO (2025)
+#   Evita subir archivos temporales, logs,
+#   carpetas locales y capturas internas.
+# ============================================
+
+# Archivos temporales de UiPath
+.project
+.settings/
+*.local/
+*.screenshots/
+
+# Carpetas automáticas de UiPath (NO subir)
+.project/
+.settings/
+.screenshots/
+.local/
+.logs/
+
+# Archivos de depuración
+*.log
+*.trace
+*.ide
+*.user
+*.orig
+
+# Archivos generados por dependencias
+project.json.backup
+*.manifest
+*.nupkg
+
+# Archivos temporales del sistema
+Thumbs.db
+Desktop.ini
+
+# Carpetas de VS Code (si editas XAML desde VSCode)
+.vscode/
+
+# Archivos de Excel temporales
+~$*.xlsx
+~$*.xls
+
+# Archivos temporales de Windows
+*.tmp
+*.temp
+
+# Archivos de ejecución temporal del navegador
+*.crdownload
+
+# No subir archivos publicados por UiPath
+publish/
+
+# Carpetas de ejecución de UiPath Robots
+.nuget/
+packages/
+
+# Ignorar capturas internas (solo si usas tu carpeta Screenshots externa)
+**/.screenshots/
+
+# ============================================
+# Permitir archivos importantes del proyecto
+# ============================================
+
+# ¡Mantener los XAML!
+!*.xaml
+
+# Mantener archivos de configuración principal
+!project.json
+
+# Mantener el Excel de entrada
+!*.xlsx
+
+# Mantener tu carpeta Screenshots externa
+!/Screenshots/
+
+# Mantener tu carpeta UiPath del proyecto
+!/UiPath/
