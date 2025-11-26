@@ -61,10 +61,7 @@ Abre UiPath Studio
 
 Ve a Open → Open Folder
 
-Selecciona:
-
-/UiPath/Proyecto
-
+Selecciona: (RUTA DEL HASTA EL ARCHIVO "project.json")
 
 Si UiPath lo solicita, presiona Restore Dependencies
 
@@ -102,13 +99,10 @@ Excel como fuente de datos
 
 Las capturas están dentro de la carpeta /Screenshots.
 
-Ejemplos sugeridos:
-
-evidencia_excel.png
-
-evidencia_formulario.png
-
-evidencia_output.png
+Screenshots/excel_input.jpg
+Screenshots/OUTPUT.jpg
+Screenshots/project_structure.jpg
+Screenshots/workflow.jpg
 
 📌 Mejoras Futuras (Opcional)
 
